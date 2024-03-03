@@ -19,7 +19,7 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 
 ## 🚀 Skills and Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,git,github,react,nextjs,nodejs,express,mongodb,figma,vscode,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,git,github,react,nextjs,redux,nodejs,express,mongodb,figma,vscode,&theme=light)](https://skillicons.dev)
 
 <div  style="margin-top: 50px; margin-bottom: 0px;" ></div>
 
@@ -58,15 +58,6 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
   - Authentication: Firebase Authentication with JWT
 - [Client Site](https://github.com/naymhossen1b/Fintex-Fitness-Client-Code) - [Server Site](https://github.com/naymhossen1b/Fintex-Fitness-Server-Code-) - [Live Demo](https://fintex-fitness.netlify.app)
 
-### 🌐 Job Post-MERN Stack Website
-
-- **Description:** A dynamic job posting platform built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. Allows employers to post job opportunities and job seekers to explore and apply.
-- **Technologies Used:**
-  - Frontend: React.js, Tailwind CSS
-  - Backend: Node.js, Express.js
-  - Database: MongoDB
-  - Authentication: Firebase Authentication with JWT
-- [Client Site](https://github.com/naymhossen1b/Job-Box-Client-Site) - [Server Site](https://github.com/naymhossen1b/Job-Box-Server-Site) - [Live Demo](https://job-box-apps.netlify.app/)
 
 <!-- Currently Learning -->
 
@@ -74,6 +65,6 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 
 I'm currently expanding my knowledge and expertise in the following areas:
 
-- **Next.js:** Exploring the world of server-side rendering and React framework.
+- **Redux:** Redux is a state management library for JavaScript applications, providing a predictable and centralized approach to managing application state.
 
 <span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Feel free to explore my repositories and connect with me! 😊</span>
